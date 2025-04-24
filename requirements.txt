@@ -1,0 +1,5 @@
+pandas
+fuzzywuzzy
+matplotlib
+python-docx
+PyMuPDF
